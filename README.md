@@ -15,3 +15,6 @@ Case da empresa fictícia Frutally para compreender os fundamentos básicos do S
 - Consultas com diferentes tipos de dados
 - Comandos INSERT
 - Comandos de consulta e consultas especificas e personalizadas
+
+# Observações 
+Falta corrigir alguns dados que foram inseridos nas colunas erradas [VOLUME MINIMO] e [LIMITE DE CREDITO].
