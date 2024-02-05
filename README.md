@@ -17,4 +17,5 @@ Case da empresa fictícia Frutally para compreender os fundamentos básicos do S
 - Comandos de consulta e consultas especificas e personalizadas
 
 # Observações 
-Falta corrigir alguns dados que foram inseridos nas colunas erradas [VOLUME MINIMO] e [LIMITE DE CREDITO].
+- Falta corrigir alguns dados que foram inseridos nas colunas erradas [VOLUME MINIMO] e [LIMITE DE CREDITO]. CORRIGIDO ✅
+- Falta corrigir o tipo de dado da coluna [MATRICULA] da [TABELA DE VENDEDORES]. CORRIGIDO ✅
